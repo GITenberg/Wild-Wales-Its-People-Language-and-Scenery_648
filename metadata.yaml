@@ -1,5 +1,8 @@
 _repo: Wild-Wales-Its-People-Language-and-Scenery_648
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Borrow, George
@@ -21,6 +24,8 @@ description: "Wild Wales: Its People, Language and Scenery is a travel book by t
   \ Welsh people he meets and talks to are by both his linguistic abilities and his\
   \ travels, education and personality, and also by his idiosyncratic pronunciation\
   \ of their language.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/648#Wild-Wales-Its-People-Language-and-Scenery
 gutenberg_issued: '1996-09-01'
 gutenberg_type: Text
 identifiers:
