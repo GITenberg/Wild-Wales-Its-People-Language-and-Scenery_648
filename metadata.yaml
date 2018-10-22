@@ -1,5 +1,5 @@
 _repo: Wild-Wales-Its-People-Language-and-Scenery_648
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -39,6 +39,7 @@ subjects:
 - !lcsh 'Wales -- Description and travel'
 - !lcsh 'Borrow, George, 1803-1881 -- Travel -- Wales'
 - !lcc 'DA'
+- GITenberg
 title: 'Wild Wales: Its People, Language and Scenery'
 url: http://www.gutenberg.org/ebooks/648
 wikipedia:
